@@ -1,5 +1,5 @@
 # HotdogOrNot
-HotdogOrNot from dlcourse.ai
+HotdogOrNot from https://www.kaggle.com/c/hotdogornot
 
 | Model Number  | Private LB F1-Score   | Public LB F1-Score  |
 | ------------- | ----------------------|---------------------|
@@ -14,3 +14,16 @@ HotdogOrNot from dlcourse.ai
 |   9           | Content Cell          | Content Cell        |
 |   10          | Content Cell          | Content Cell        |
 |   11          | Content Cell          | Content Cell        |
+
+## Models
+1. ff
+2. vv
+
+## Learning rate range test 
+### Train&Val history according to lr
+
+![](https://raw.githubusercontent.com/basic39/HotdogOrNot/master/images/ValTrain_lr.png)
+
+### Loss history according to lr
+
+![](https://raw.githubusercontent.com/basic39/HotdogOrNot/master/images/Loss_lr.png)
