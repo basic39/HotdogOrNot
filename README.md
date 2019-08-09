@@ -22,7 +22,7 @@ HotdogOrNot from https://www.kaggle.com/c/hotdogornot
 ## Learning rate range test 
 ### Train&Val history according to lr
 
-![](https://raw.githubusercontent.com/basic39/HotdogOrNot/master/images/ValTrain_lr.png)
+![](https://raw.githubusercontent.com/basic39/HotdogOrNot/master/images/TrainVal_lr.png)
 
 ### Loss history according to lr
 
