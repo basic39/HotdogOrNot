@@ -26,4 +26,4 @@ HotdogOrNot from https://www.kaggle.com/c/hotdogornot
 
 ### Loss history according to lr
 
-![](https://raw.githubusercontent.com/basic39/HotdogOrNot/master/images/Loss_lr.png)
+
