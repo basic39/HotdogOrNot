@@ -45,7 +45,7 @@ HotdogOrNot from https://www.kaggle.com/c/hotdogornot
 		○ Augmentations: RandomHorizontalFlip
 6. Model5 with RandomGrayscale
 
-		○ Model6
+		○ Model5
 		○ Augmentations: RandomHorizontalFlip, RandomGrayscale
 7. Model5 with cosine annealing
 
