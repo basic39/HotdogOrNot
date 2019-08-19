@@ -14,6 +14,7 @@ My goal was to build the best single model without additional dataset.
 |   1           |                       | 0.95429             | 0.94871                 | 0.94685            | 0.95693               |
 |   4           |                       | 0.95202             | 0.94559                 | 0.95145            | 0.95609               |
 |   0           |                       | 0.90400             |                         | 0.91752            |                       |
+    Used TTAs: "NO", "FLIP_LR", "BRIGHT", "CONTRAST"(edafa)
 
 ## Models
 0. Benchmark: Untrained model resnet101
