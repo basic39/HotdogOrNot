@@ -53,7 +53,8 @@ My goal was to build the best single model without additional dataset.
 7. Model5 with cosine annealing
 
 		○ Model5
-		○ 50 epoch, initial lr=1e-2, eta_min=1e-6, T_max=10. Then pick the best model and another cosine annealing and initial lr= 8e-4, eta_min=8e-6
+		○ 50 epoch, initial lr=1e-2, eta_min=1e-6, T_max=10. 
+		Then pick the best model and another cosine annealing with initial lr= 8e-4, eta_min=8e-6
 8. Model5 with cosine annealing and more Augmentations
 
 		○ Model5
